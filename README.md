@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vijay Parmar 
 - 👀 I’m interested in software program management.
 - 🌱 I’m currently learning C & Python.
-- 💞️ I’m looking to collaborate on developing new ways of working to integrate software and hardware program management.  
+- 💞️ I’m looking to collaborate on ways of working to integrate software and hardware program management.  
 - 📫 My cell #: (480) 689 9027
